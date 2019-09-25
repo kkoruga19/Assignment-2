@@ -1,0 +1,164 @@
+.container {
+  position: relative;
+  color: white;
+}
+
+
+.flex-container1{
+  margin: 0px;
+  padding: 0px;
+  font-family: "open sans", sans-serif;
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../images/sea.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.yellowbutton{
+background-color: rgb(250, 234, 10);
+  color: #252838;
+  padding: .3rem .4rem;
+  text-align:center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 13px;
+  cursor: pointer;
+  font-family: "open sans", sans-serif;
+  font-weight:bold;
+  align-items:center;
+}
+
+.breakbutton{
+  line-height: 50px;
+  color: white;
+  font-family: "open sans", sans-serif;
+  font-size: 32px;
+  align-items: center;
+  margin-top:10rem;
+  padding: 3rem
+}
+
+.logo1{
+  align-self: flex-start;
+  color: white;
+  margin-left: 4rem;
+  padding-left: 4rem;
+}
+
+.flex-container2{
+  background-color:#ECECEC;
+  margin: 0px;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+  font-size: 20px;
+  text-align:left;
+  font-family: "open sans", sans-serif;
+  font-weight:lighter;
+  height: 100vh;
+  width: 100vw;
+  position: relative;
+  max-height: 250px;
+}
+
+.header{
+  color: #233559;
+  font-family: "open sans", sans-serif;
+  font-size: 25px;
+  font-weight:bold;
+  margin-left: 7rem;
+  margin-bottom: 2rem;
+}
+
+.section2{
+  font-family: "open sans", sans-serif;
+  font-size: 16px;
+  color:grey;
+  margin-left: 7rem;
+}
+
+
+li{
+  margin-left: 9rem;
+}
+
+
+
+.flex-container3 {
+  background-color:#252838;
+  margin: 0px;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  font-size: 30px;
+  width: 100vw;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.quote{
+  font-family: "open sans", sans-serif;
+  font-size: 17px;
+  color:white;
+  font-style:italic;
+  font-weight:lighter;
+}
+
+  .saidquote{
+  font-family: "open sans", sans-serif;
+  font-size: 14px;
+  color: white;
+  }
+
+.flex-container4 {
+  background-color: rgb(250, 234, 10);
+  margin: 0px;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  font-size: 30px;
+  width: 100vw;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.button {
+  background-color: #252838;
+  color: white;
+  padding: .6rem 2rem;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  font-family: "open sans", sans-serif;
+  font-size: 13px;
+  font-weight:bold;
+}
+
+.flex-container5 {
+  background-color: rgba(0, 0, 0, 0.774);
+  width: 100vw;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+}
+
+.section5{
+  font-family: "open sans", sans-serif;
+  font-size: 10px;
+  color:white;
+  margin-bottom: 3rem;
+  padding-top: 1.3rem
+}
+
+
+.logo2{
+  color: rgb(250, 234, 10);
+  font-family: "open sans", sans-serif;
+  font-size: 30px;
+}
+
+
